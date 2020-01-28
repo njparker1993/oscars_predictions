@@ -1,4 +1,8 @@
 # oscars_predictions
+<p>
+  <img src='https://i.guim.co.uk/img/media/314057fd08c2538d8d7e177f414d8f1a683d21d1/0_374_1954_1172/master/1954.jpg?width=300&quality=85&auto=format&fit=max&s=e5845e07a3411cd4c8ceaed1b065f7f1'>
+ </p>
+
 The Oscars can be thought of as the Super Bowl of Hollywood. Movies come out each year, and are voted on not only by their merit, but they compete for favor of each voter in the Academy by campaigning. Stats like Genre, Money Made, or Rotten Tomatoes score are not enought to predict the Oscars, because art is subjective, and voting is personal. How can we predict the Oscars then? The strategy that has yielded the best results is by tracking awards shows throughout the year and using them as features to predict who will come how with a little gold man statue.
 
 ### Data Acquisition
