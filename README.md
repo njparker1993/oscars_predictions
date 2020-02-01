@@ -15,4 +15,9 @@ My [final dataframe](https://github.com/njparker1993/oscars_predictions/blob/mas
 The [second modeling strategy](https://github.com/njparker1993/oscars_predictions/blob/master/machine_learning_preferential_ballot.ipynb) was a more creative, and a bit more abstract. The way the real Oscars do their voting for best picture is through a process called a [preferential balloting system](https://www.youtube.com/watch?v=LjhoSv4Ood0). This works by instead of voting for one movie, voters rank all nominated movies, and movies are gradually crossed off that list until one film has over 50% of the 1st choice votes. 
 I simulated this conveluted voting system by using DecisionTrees trained on different parts of the data. They had noise added to simulate bias, and each tree can approximately thought of as an Academy Voter. Each Tree produced one preferential ballot, and a winner was selected by elimnating films in the same way that the Academy's preferential balloting system would.
 
+Here is an example of what one Tree would produce in my Preferential Balloting Random Forest method:
+<p align = 'center'>
+<img src='images/pb_rf_tree.png' width = '400'>
+</p>
+
 Which modeling strategy will be more accurate in predicting the Oscar? I would guess the more computationally heavy Auto ML, but we will have to wait and see on Oscar Night Feb 9th!
