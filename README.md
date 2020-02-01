@@ -19,5 +19,9 @@ Here is an example of what one Tree would produce in my Preferential Balloting R
 <p align = 'center'>
 <img src='images/pb_rf_tree.png' width = '400'>
 </p>
+And here is how the votes from all the trees would be used to find the eventual winner using Preferential Balloting:
+<p align = 'center'>
+<img src='https://media.giphy.com/media/KZdQA9PquHywGpSXJF/giphy.gif' width = '300'>
+</p>
 
-Which modeling strategy will be more accurate in predicting the Oscar? I would guess the more computationally heavy Auto ML, but we will have to wait and see on Oscar Night Feb 9th!
+### Which modeling strategy will be more accurate in predicting the Oscar? I would guess the more computationally heavy Auto ML, but we will have to wait and see on Oscar Night Feb 9th!
