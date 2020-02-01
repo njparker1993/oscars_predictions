@@ -25,4 +25,4 @@ And here is how the votes from all the trees would be used to find the eventual 
 <img src='https://media.giphy.com/media/KZdQA9PquHywGpSXJF/giphy.gif' width = '300'>
 </p>
 
-### Which modeling strategy will be more accurate in predicting the Oscar? I would guess the more computationally heavy Auto ML, but we will have to wait and see on Oscar Night Feb 9th!
+### How effective will this modeling strategy be fore simulating the Oscars? We will have to wait and see on Oscar Night Feb 9th!
