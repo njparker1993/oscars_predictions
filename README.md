@@ -1,4 +1,5 @@
 # oscars_predictions
+
 The Oscars can be thought of as the Super Bowl of Hollywood. Movies come out each year, and are voted on not only by their merit, but they compete for favor of each voter in the Academy by campaigning. Stats like Genre, Money Made, or Rotten Tomatoes score are not enought to predict the Oscars, because art is subjective, and voting is personal. How can we predict the Oscars then? The strategy that has yielded the best results is by tracking awards shows throughout the year and using them as features to predict who will come how with a little gold man statue.
 
 ### Data Acquisition
@@ -12,3 +13,7 @@ The [second modeling strategy](https://github.com/njparker1993/oscars_prediction
 I simulated this conveluted voting system by using DecisionTrees trained on different parts of the data. They had noise added to simulate bias, and each tree can approximately thought of as an Academy Voter. Each Tree produced one preferential ballot, and a winner was selected by elimnating films in the same way that the Academy's preferential balloting system would.
 
 Which modeling strategy will be more accurate in predicting the Oscar? I would guess the more computationally heavy Auto ML, but we will have to wait and see on Oscar Night Feb 9th!
+
+<p>
+  <img src='https://cdn.onebauer.media/one/empire-legacy/uploaded/return-of-the-king-oscar-stage.jpg?quality=50&width=1000&ratio=1-1&resizeStyle=aspectfit&format=jpg'>
+ </p>
