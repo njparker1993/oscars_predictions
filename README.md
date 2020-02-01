@@ -1,4 +1,4 @@
-![](images/osc_2020.png)
+<img src = 'images/osc_2020.png', width = '100', height = '200'>
 
 # Predicting the Oscars with Machine Learning
 
