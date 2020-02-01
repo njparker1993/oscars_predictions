@@ -1,4 +1,4 @@
-<img src = 'images/osc_2020.png', width = '100', height = '200'>
+<img src='images/osc_2020.png' width = '100'>
 
 # Predicting the Oscars with Machine Learning
 
